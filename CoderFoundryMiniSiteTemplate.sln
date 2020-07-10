@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderFoundryMiniSiteTemplate", "CoderFoundryMiniSiteTemplate\CoderFoundryMiniSiteTemplate.csproj", "{D67BA829-633F-4D4B-84EA-A1CB993AA81E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67BA829-633F-4D4B-84EA-A1CB993AA81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67BA829-633F-4D4B-84EA-A1CB993AA81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67BA829-633F-4D4B-84EA-A1CB993AA81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67BA829-633F-4D4B-84EA-A1CB993AA81E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8DEB448-1F39-41C3-9CBD-D24FE1BC7A2A}
+	EndGlobalSection
+EndGlobal
